@@ -28,5 +28,7 @@ Anotación y contexto
 
 Marco la posición del router y señalo los 12 puntos donde tomé mediciones reales. De esta manera, cualquiera que vea el gráfico puede conectar el mapa estimado con los datos originales y entender la visualización con contexto.
 
+<img width="781" height="770" alt="image" src="https://github.com/user-attachments/assets/960a61d3-5962-4ea0-9269-d0695a60df02" />
+
 
 [Ver el código de MATLAB aquí](./Mapa_de_calor.m).
